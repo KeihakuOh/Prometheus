@@ -1,0 +1,5 @@
+- labels:
+    env: development
+  targets:
+    - example02.com:9100
+    - example03.com:9100
